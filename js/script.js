@@ -23,4 +23,4 @@ let a = document.querySelector('#one');
 let c;
 c = document.querySelector('.header');
 a.innerHTML = 999; // new! - ошибка
-c.innerHTML = 6666;
+c.innerHTML = 6366;
